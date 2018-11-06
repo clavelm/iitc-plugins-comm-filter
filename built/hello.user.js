@@ -2,19 +2,19 @@
 // @id             iitc-plugin-hello@udnp
 // @name           IITC plugin: hello
 // @category       Hello
-// @version        0.0.2.20160328.150652
+// @version        0.0.3.20181106.195201
 // @namespace      https://github.com/jonatkins/ingress-intel-total-conversion
 // @updateURL      none
 // @downloadURL    none
-// @description    [udnp-2016-03-28-150652] Hello!
-// @include        https://www.ingress.com/intel*
-// @include        http://www.ingress.com/intel*
-// @match          https://www.ingress.com/intel*
-// @match          http://www.ingress.com/intel*
-// @include        https://www.ingress.com/mission/*
-// @include        http://www.ingress.com/mission/*
-// @match          https://www.ingress.com/mission/*
-// @match          http://www.ingress.com/mission/*
+// @description    [udnp-2018-11-06-195201] Hello!
+// @include        https://*.ingress.com/intel*
+// @include        http://*.ingress.com/intel*
+// @match          https://*.ingress.com/intel*
+// @match          http://*.ingress.com/intel*
+// @include        https://*.ingress.com/mission/*
+// @include        http://*.ingress.com/mission/*
+// @match          https://*.ingress.com/mission/*
+// @match          http://*.ingress.com/mission/*
 // @grant          none
 // ==/UserScript==
 
@@ -26,7 +26,7 @@ if(typeof window.plugin !== 'function') window.plugin = function() {};
 //PLUGIN AUTHORS: writing a plugin outside of the IITC build environment? if so, delete these lines!!
 //(leaving them in place might break the 'About IITC' page or break update checks)
 plugin_info.buildName = 'udnp';
-plugin_info.dateTimeVersion = '20160328.150652';
+plugin_info.dateTimeVersion = '20181106.195201';
 plugin_info.pluginId = 'hello';
 //END PLUGIN AUTHORS NOTE
 
