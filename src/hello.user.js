@@ -1,5 +1,5 @@
 // ==UserScript==
-// @id             iitc-plugin-hello@udnp
+// @id             iitc-plugin-hello@world
 // @name           IITC plugin: hello
 // @category       Hello
 // @version        0.0.4.@@DATETIMEVERSION@@
