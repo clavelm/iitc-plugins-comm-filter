@@ -3,7 +3,7 @@
 // @name           IITC plugin: hello
 // @category       Hello
 // @version        0.0.4.@@DATETIMEVERSION@@
-// @namespace      https://github.com/jonatkins/ingress-intel-total-conversion
+// @namespace      https://github.com/iitc-project/ingress-intel-total-conversion
 // @updateURL      @@UPDATEURL@@
 // @downloadURL    @@DOWNLOADURL@@
 // @description    [@@BUILDNAME@@-@@BUILDDATE@@] Hello!
