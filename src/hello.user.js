@@ -1,6 +1,7 @@
 // ==UserScript==
 // @id             iitc-plugin-hello@world
 // @name           IITC plugin: hello
+// @author         
 // @category       Hello
 // @version        0.0.4.@@DATETIMEVERSION@@
 // @namespace      https://github.com/iitc-project/ingress-intel-total-conversion
